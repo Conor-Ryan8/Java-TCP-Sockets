@@ -1,3 +1,9 @@
+/*******************************************************************************
+ * Conor Ryan - Socket Programming - Java				       *
+ * Basic TCP Server							       *
+ * April 2018			       				               *
+ *******************************************************************************/
+
 package sockets;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
