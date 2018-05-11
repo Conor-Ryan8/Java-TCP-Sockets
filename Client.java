@@ -1,3 +1,9 @@
+/*******************************************************************************
+ * Conor Ryan - Socket Programming - Java				       *
+ * Basic TCP Client							       *
+ * April 2018			       				               *
+ *******************************************************************************/
+
 package sockets;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
